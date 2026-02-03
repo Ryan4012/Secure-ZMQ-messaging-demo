@@ -37,10 +37,12 @@ This project demonstrates secure message exchange over ZeroMQ (ZMQ) sockets usin
 - Base64 encoding/decoding used to safely transmit signatures in JSON format
 
 ## Services & Functionality
-Component	Purpose	Deployment
-Sender	Signs and sends JSON messages	Executable
-Receiver	Receives and verifies messages	Executable
-Crypto Utils	Signing, verification, base64 ops	Shared library
+| Component    | Purpose                            | Deployment        |
+|--------------|----------------------------------|-------------------|
+| Sender       | Signs and sends JSON messages     | Executable        |
+| Receiver     | Receives and verifies messages    | Executable        |
+| Crypto Utils | Signing, verification, base64 ops | Shared library     |
+
 
 ## Security Considerations
 - Uses RSA 2048 digital signatures with SHA-256 digest
