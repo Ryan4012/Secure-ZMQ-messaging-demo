@@ -8,12 +8,12 @@
 
 <p align="center"> 
   Initial Command in Terminal #1 <br>
-  <img src="https://i.imgur.com/Ce5RZGR.png" height="60%" width="60%" alt="start" /> 
+  <img src="./images/Secure ZMQ messaging demo.png" alt="Architecture Diagram" width="500" />
   <br>
   Initial Command in Terminal #2 <br>
-  <img src="https://i.imgur.com/62ri9KL.png" height="60%" width="60%" alt="middle" /> 
+  <img src="./images/Architecture-Diagram.png" alt="Architecture Diagram" width="500" />
   <br>
   Successful Ouptut in Terminal #1 <br>
-  <img src="https://i.imgur.com/fG3vYMc.png" height="60%" width="60%" alt="end" /> 
+ <img src="./images/Architecture-Diagram.png" alt="Architecture Diagram" width="500" />
   <br>
 </p>
